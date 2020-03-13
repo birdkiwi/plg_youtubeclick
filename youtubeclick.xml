@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="content" method="upgrade">
+	<name>plg_content_youtubeclick</name>
+	<author>Alexey</author>
+	<creationDate>December 2019</creationDate>
+	<version>1.0.0</version>
+	<description>Youtube click to play plugin for youtube embeded videos to reduce page load speed</description>
+	<files>
+		<filename plugin="youtubeclick">youtubeclick.php</filename>
+	</files>
+</extension>
